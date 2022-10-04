@@ -22,3 +22,24 @@ To contact the steering committee:
 
 -   On GitHub: `@slsa-framework/slsa-steering-committee`
 -   Via email: slsa-steering-committee@googlegroups.com
+
+## Special Interest Groups
+To contact the various SIG Leads:
+
+Specification
+-   [Mark Lodato](https://github.com/MarkLodato) - Google
+-   [Joshua Lock](https://github.com/joshuagl) - VMware
+-   Via slack: [#slsa-specification](https://openssf.slack.com/archives/C03NUSAPKC6)
+-   Via email: slsa-steering-committee@googlegroups.com  
+
+Tooling
+-   [Mike Lieberman](https://github.com/mlieberman85) - Kusari/CNCF
+-   [Eric Tice]
+-   Via slack: [#slsa-tooling](https://openssf.slack.com/archives/C03PDLFET5W)
+-   Via email: slsa-tooling@googlegroups.com
+
+Positioning
+-   [Melba Lopez](https://github.com/melba-lopez) - IBM
+-   [Bruno Domingues](https://github.com/brunodom) - Intel
+-   Via slack: [#slsa-positioning] https://openssf.slack.com/archives/C03NSDSQJ92
+-   Via email: slsa-positioning@googlegroups.com
