@@ -41,5 +41,5 @@ Tooling
 Positioning
 -   [Melba Lopez](https://github.com/melba-lopez) - IBM
 -   [Bruno Domingues](https://github.com/brunodom) - Intel
--   Via slack: [#slsa-positioning] https://openssf.slack.com/archives/C03NSDSQJ92
+-   Via slack: [#slsa-positioning](https://openssf.slack.com/archives/C03NSDSQJ92)
 -   Via email: slsa-positioning@googlegroups.com
