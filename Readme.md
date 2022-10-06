@@ -24,22 +24,25 @@ To contact the steering committee:
 -   Via email: slsa-steering-committee@googlegroups.com
 
 ## Special Interest Groups
-To contact the various SIG Leads:
+If you would like to participate in a SIG, come join a meeting or reach out directly via slack/email (see information below)!
 
-Specification
+[Specification](9._SIG_Charter_-_Specification.md)
 -   [Mark Lodato](https://github.com/MarkLodato) - Google
 -   [Joshua Lock](https://github.com/joshuagl) - VMware
 -   Via slack: [#slsa-specification](https://openssf.slack.com/archives/C03NUSAPKC6)
 -   Via email: slsa-steering-committee@googlegroups.com  
+-   [SLSA Specification Meeting Information](https://docs.google.com/document/d/1kMP62o3KI0IqjPRSNtUqADodBqpEL_wlL1PEOsl6u20/edit#heading=h.yfiy9b23vayj)
 
-Tooling
+[Tooling](11._SIG_Charter_-_Tooling.md)
 -   [Mike Lieberman](https://github.com/mlieberman85) - Kusari/CNCF
--   [Eric Tice]
+-   [Eric Tice](https://github.com/erictice) - Wipro
 -   Via slack: [#slsa-tooling](https://openssf.slack.com/archives/C03PDLFET5W)
 -   Via email: slsa-tooling@googlegroups.com
+-   [SLSA Tooling Meeting Information](https://docs.google.com/document/d/15Xp8-0Ff_BPg_LMKr1RIKtwAavXGdrgb1BoX4Cl2bE4/edit#heading=h.yfiy9b23vayj)
 
-Positioning
+[Positioning](10._SIG_Charter_-_Positioning.md)
 -   [Melba Lopez](https://github.com/melba-lopez) - IBM
 -   [Bruno Domingues](https://github.com/brunodom) - Intel
 -   Via slack: [#slsa-positioning](https://openssf.slack.com/archives/C03NSDSQJ92)
 -   Via email: slsa-positioning@googlegroups.com
+-   [SLSA Positioning Meeting Information](https://docs.google.com/document/d/1tpPOXVzNSwtpWA7cXhTPLAO6HIP50obUvoP85XqgVHM/edit#heading=h.yfiy9b23vayj)
