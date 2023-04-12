@@ -12,7 +12,7 @@ Current steering committee members:
 
 -   [Bruno Domingues](https://github.com/brunodom) - Intel
 -   [David A. Wheeler](https://github.com/david-a-wheeler) - Linux Foundation
--   [Joshua Lock](https://github.com/joshuagl) - VMware
+-   [Joshua Lock](https://github.com/joshuagl) - Verizon
 -   [Kim Lewandowksi](https://github.com/kimsterv) - Chainguard
 -   [Mark Lodato](https://github.com/MarkLodato) - Google
 -   [Mike Lieberman](https://github.com/mlieberman85) - Kusari/CNCF
