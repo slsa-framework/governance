@@ -18,13 +18,12 @@ Current steering committee members:
 
 Emeritus members of the steering committee:
 
--   [Joshua Lock](https://github.com/joshuagl) - Verizon
--   [Mark Lodato](https://github.com/MarkLodato) - Google
--   [Mike Lieberman](https://github.com/mlieberman85) - Kusari/CNCF
--   [Trishank Karthik Kuppusamy](https://github.com/trishankatdatadog) - Datadog
 -   [Bruno Domingues](https://github.com/brunodom) - Intel
 -   [David A. Wheeler](https://github.com/david-a-wheeler) - Linux Foundation
+-   [Joshua Lock](https://github.com/joshuagl) - Verizon
 -   [Kim Lewandowksi](https://github.com/kimsterv) - Chainguard
+-   [Mark Lodato](https://github.com/MarkLodato) - Google
+-   [Trishank Karthik Kuppusamy](https://github.com/trishankatdatadog) - Datadog
 
 To contact the steering committee:
 
