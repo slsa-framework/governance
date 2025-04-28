@@ -10,17 +10,20 @@ The SLSA Governance process is based on the [Community Specification model and l
 
 Current steering committee members:
 
-
--   [Joshua Lock](https://github.com/joshuagl) - Verizon
--   [Mark Lodato](https://github.com/MarkLodato) - Google
--   [Mike Lieberman](https://github.com/mlieberman85) - Kusari/CNCF
--   [Trishank Karthik Kuppusamy](https://github.com/trishankatdatadog) - Datadog
+- [Adrian Diglio](https://github.com/adriandiglio) - Microsoft 
+- [Andrew McNamara](https://github.com/arewm) - Red Hat 
+- [Mike Lieberman](https://github.com/mlieberman85) - Kusari 
+- [Michael Winser](https://github.com/michaelwinser) - Eclipse Foundation
+- [Tom Hennen](https://github.com/TomHennen) - Google
 
 Emeritus members of the steering committee:
 
 -   [Bruno Domingues](https://github.com/brunodom) - Intel
 -   [David A. Wheeler](https://github.com/david-a-wheeler) - Linux Foundation
+-   [Joshua Lock](https://github.com/joshuagl) - Verizon
 -   [Kim Lewandowksi](https://github.com/kimsterv) - Chainguard
+-   [Mark Lodato](https://github.com/MarkLodato) - Google
+-   [Trishank Karthik Kuppusamy](https://github.com/trishankatdatadog) - Datadog
 
 To contact the steering committee:
 
